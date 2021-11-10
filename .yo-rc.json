@@ -44,7 +44,9 @@
     "clientTheme": "none",
     "clientThemeVariant": "",
     "reactive": false,
-    "enableGradleEnterprise": false
+    "enableGradleEnterprise": false,
+    "entities": ["Blog", "Post", "Tag"],
+    "lastLiquibaseTimestamp": 1636513624000
   },
   "git-provider": "GitHub",
   "git-company": "dqvn",
